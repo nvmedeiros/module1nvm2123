@@ -24,6 +24,7 @@ void setup() {
   tft.init();
   tft.setRotation(1); // 1 = landscape, 2 = portrait
   randomSeed(analogRead(0)); // configuration of confetti changes randomly for every loop
+}
 
 void loop() {
   drawFace(SMILE, TFT_YELLOW);

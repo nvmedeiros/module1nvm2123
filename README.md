@@ -44,14 +44,14 @@ The TFT display is placed behind a cutout in a paper envelope so that it turns i
 
 ## Final Design
 
-![Final Design in Gallery](module1.gif)
+![Final Design in Gallery](media/module1.gif)
 
 ## Installation Photos
 
-![Setting up for Gallery](IMG_9053.png)
+![Setting up for Gallery](media/IMG_9053.png)
 
-![Screen close-up: Happy](happy.png)
-![Screen close-up: Sad](sad.png)
+![Screen close-up: Happy](media/happy.png)
+![Screen close-up: Sad](media/sad.png)
 
 ## Code
 

@@ -48,10 +48,10 @@ The TFT display is placed behind a cutout in a paper envelope so that it turns i
 
 ## Installation Photos
 
-![Setting up for Gallery](IMG_9053.HEIC)
+![Setting up for Gallery](IMG_9053.png)
 
-![Screen close-up: Happy](happy.pdf)
-![Screen close-up: Sad](sad.pdf)
+![Screen close-up: Happy](happy.png)
+![Screen close-up: Sad](sad.png)
 
 ## Code
 

@@ -15,7 +15,7 @@ Over a simple black backdrop, three total faces transition from happy to neutral
 - ESP32
 - TFT display
 - USB-C cable
-FOR EXHIBITION:
+**FOR EXHIBITION:**
 - LiPo battery
 - Paper envelope
 - Tape
